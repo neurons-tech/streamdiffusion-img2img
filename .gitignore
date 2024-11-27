@@ -4,3 +4,4 @@ public/
 *.pem
 !lib/
 !static/
+/notes.txt
